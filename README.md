@@ -1,3 +1,1 @@
-# Blue_Ant (Mini-SOC Environment)
-Building and Operating a Mini Security Operations Center (SOC), by Simulating the full workflow including log ingestion, threat detection,
-triaging, and reporting.
+# Blue_Ant (Mini-SOC EnvironmentDesigned and operated a fully functional Mini SOC that simulated real-world security operations. Implemented network segmentation through pfSense firewall, integrated Snort IDS for intrusion detection, and centralized log analysis using Wazuh SIEM. Conducted alert triage, incident correlation, and KPI-based reporting aligned with MITRE ATT&CK framework. Delivered a complete workflow covering log ingestion, detection, investigation, and reporting.
